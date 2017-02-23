@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-23 05:55:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>14aaa6aa4f417200e7e153418110c7c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_16657_sample_git_hub_app1.x_16657_sample_git.git_hub_app1_user</sys_name>
+        <sys_package display_value="Sample GIT App-1" source="x_16657_sample_git">1e472a2e4f017200e7e153418110c7eb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sample GIT App-1">1e472a2e4f017200e7e153418110c7eb</sys_scope>
+        <sys_security_acl display_value="x_16657_sample_git_hub_app1">5caaa6aa4f417200e7e153418110c7c1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_14aaa6aa4f417200e7e153418110c7c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-23 05:55:48</sys_updated_on>
+        <sys_user_role display_value="x_16657_sample_git.git_hub_app1_user" name="x_16657_sample_git.git_hub_app1_user">84aae6a64f417200e7e153418110c76e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
