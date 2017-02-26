@@ -9,7 +9,7 @@
         <action_update>false</action_update>
         <active>true</active>
         <add_message>false</add_message>
-        <advanced>false</advanced>
+        <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection>x_16657_sample_git_hub_app1</collection>
@@ -30,7 +30,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	// Add your code here
+	// Add your code heresample script yes
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c64a44bf4f093200e7e153418110c7a1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Git Rule 1</sys_name>
         <sys_overrides/>
         <sys_package display_value="Sample GIT App-1" source="x_16657_sample_git">1e472a2e4f017200e7e153418110c7eb</sys_package>
@@ -49,7 +49,7 @@
         <sys_scope display_value="Sample GIT App-1">1e472a2e4f017200e7e153418110c7eb</sys_scope>
         <sys_update_name>sys_script_c64a44bf4f093200e7e153418110c7a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-26 15:28:00</sys_updated_on>
+        <sys_updated_on>2017-02-26 15:32:23</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
