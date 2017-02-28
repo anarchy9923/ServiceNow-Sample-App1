@@ -2,7 +2,7 @@
 <database>
     <element label="Git-Hub App1" max_length="40" name="x_16657_sample_git_hub_app1" type="collection">
         <element label="Age" max_length="3" name="age" type="integer"/>
-        <element label="Field 3" max_length="40" name="field_3" type="string"/>
+        <element label="Field 3" max_length="40" name="field_3" type="integer"/>
         <element label="Field 4" max_length="40" name="field_4" type="string"/>
         <element label="Field 5" max_length="40" name="field_5" type="string"/>
         <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
