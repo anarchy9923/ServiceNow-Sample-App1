@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-23 05:55:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>84aae6a64f417200e7e153418110c76e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_16657_sample_git.git_hub_app1_user</sys_name>
